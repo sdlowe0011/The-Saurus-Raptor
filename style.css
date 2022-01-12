@@ -1,0 +1,92 @@
+.everything {
+  background: rgb(65, 64, 64);
+}
+
+.img {
+  display: inline;
+  height: 130px;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  border: #222 3px solid;
+}
+
+* {
+  font-family: Leto, sans-serif, monospace;
+  color: white;
+  margin: 1rem;
+}
+
+.name {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.tagline {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.quote {
+  text-align: center;
+  font-family: Oswald, sans-serif, monospace;
+}
+
+.links {
+  text-align: left;
+}
+
+.mymission {
+  padding: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.paragraph1 {
+  padding-left: 10px;
+}
+
+.paragraph2 {
+  padding-left: 10px;
+}
+
+.section1 {
+  background: #600388;
+  color: #fffaf0;
+  padding: 10px;
+  border: #222 3px solid;
+}
+
+.herbivorefaqs {
+  text-align: center;
+  padding: 5px;
+  margin-top: 2px;
+  text-decoration: underline;
+}
+
+.section2 {
+  background: #9400d3;
+  color: #fffaf0;
+  padding: 10px;
+  border: #222 3px solid;
+}
+
+.services {
+  text-align: center;
+  margin-top: 2px;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.auto {
+  text-align: center;
+  margin-top: 2px;
+  padding: 5px;
+  text-decoration: underline;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+}
